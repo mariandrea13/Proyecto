@@ -1,0 +1,87 @@
+html,body{
+  height: 100%;
+
+}
+h1{
+  font-family: Papyrus, fantasy;
+}
+li{
+display: inline;
+}
+img{
+  box-shadow: 2px 2px 5px #999;
+
+}
+p{
+  text-align: justify;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 20px;
+}
+
+
+
+a:hover{
+  color: black;
+}
+.Header{
+padding: 30px;
+padding-right: 0px;
+background-color:rgba(51, 236, 41, 0.78) ;
+color: white;
+}
+.HeaderOther{
+  padding: 10px;
+  padding-right: 0px;
+  background-color:rgb(148, 47, 15);
+  color: white;
+
+}
+
+.list{
+  margin-top: 30px;
+  width: 200px;
+  text-align: center;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 20px;
+  float: left;
+}
+.contenido{
+
+  display: block;
+  margin: 20px 30px 20px 250px;
+  padding: 20px;
+  background-color: orange;
+}
+.texto{
+margin: 10px 200px 20px 400px;
+padding: 20px;
+background: rgb(190, 91, 65);
+
+}
+.footer{
+
+  background: rgb(175, 190, 175);
+}
+.footer p{
+  text-align: center;
+  font-size: 12px;
+}
+
+
+.nav{
+  float: right;
+  border: 50px;
+  border-right: 0px;
+
+}
+.nav p{
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 20px;
+}
+
+.nav a{
+
+  font-size: 20px;
+  color:rgb(246, 143, 6);
+
+}
